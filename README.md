@@ -1,7 +1,4 @@
-### Coding Challenge
-
-# Class Management Application
-
+### CampusMate
 
 #### Features of Application
 1. Create & Manage Courses
